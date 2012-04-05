@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Wed 04 Apr 2012 19:06:49 BST
+
+BeginCmp
+TimeStamp = /4F7C8CF6;
+Reference = C1;
+ValeurCmp = 100u;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F7C8D0B;
+Reference = C2;
+ValeurCmp = 100u;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F7C80D0;
+Reference = IN1;
+ValeurCmp = CONN_2;
+IdModule  = 2PIN_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F7C7BCC;
+Reference = OUT1;
+ValeurCmp = CONN_2;
+IdModule  = 2PIN_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F7C7C31;
+Reference = U1;
+ValeurCmp = LM7905;
+IdModule  = LM79XX;
+EndCmp
+
+EndListe

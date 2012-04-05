@@ -1,0 +1,19 @@
+eeschema (2010-03-14)-final  >> Creation date: Wed 04 Apr 2012 19:07:15 BST
+
+#Cmp ( order = Reference )
+| C1         100u        
+| C2         100u        
+| IN1        CONN_2      
+| OUT1       CONN_2      
+| U1         LM7905      
+#End Cmp
+
+#Cmp ( order = Value )
+| 100u         C1        
+| 100u         C2        
+| CONN_2       IN1       
+| CONN_2       OUT1      
+| LM7905       U1        
+#End Cmp
+
+#End List
